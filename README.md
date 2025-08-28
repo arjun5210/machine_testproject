@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tisserproject
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# machine_testproject
+>>>>>>> 43ce3069dbb4872faa8542eeeb12429f02b9cff1
